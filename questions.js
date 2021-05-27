@@ -21,7 +21,7 @@ const quiz = [
         answer: 2
     },
     {
-        q:"My sister ___ music now.",
+        q:"My sister ___ to music now.",
         options:["are listening", "listens", "is listening"],
         answer: 2
     },
@@ -91,7 +91,7 @@ const quiz = [
         answer: 1
     },
     {
-        q:"Where ___ they ___ ? In a house or a flat?",
+        q:"Where ___ they ___ ? In a house or in a flat?",
         options:["are / living", "does / lives", "do / live"],
         answer: 2
     },
